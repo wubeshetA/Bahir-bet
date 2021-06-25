@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EthiopianPremierLeague">የኢትዮጽያ ፕሪምየር ሊግ</string>
+    <string name="football">እግር ኳስ</string>
+    <string name="selected_matches">የተመረጡ ጨዋታዎች</string>
+    <string name="choose_the_transaction_method">መቀጠል ይፈልጋሉ？</string>
+    <string name="volley_ball">ቮሊ ቮል</string>
+    <string name="base_ball">ቤዝ ቦል</string>
+    <string name="tennis">ቴንስ</string>
+    <string name="spain_laliga">ስፔን ላሊጋ</string>
+    <string name="english_premier_league">እንግሊዝ ፕሪሚየር ሊግ</string>
+    <string name="basket_ball">ባስከት ቦል</string>
+    <string name="total_betting_amount">አጠቃላይ የቢቲንግ መጠን：</string>
+    <string name="possible_win">የሚያሽንፉት መጠን：</string>
+    <string name="place_your_bet_amount">የገንዝብ መጠን ያስቀምጡ：</string>
+    <string name="cycling">ብስክሌት</string>
+    <string name="your_coupon_code_is">"የእርስዎ የኩፖን ኮድ： "</string>
+    <string name="bahir_dar_kenema">ባ/ዳር ከነማ</string>
+    <string name="vs">ከ</string>
+    <string name="home">ባለሜዳ</string>
+    <string name="draw">እኩል</string>
+    <string name="away">እንግዳ</string>
+    <string name="german_bundesliga">ጀርመን ቡንደስሊጋ</string>
+    <string name="italy_serie">ጣሊያን ሴሪያ</string>
+    <string name="uefa_champions_league">አውሮፓ ቻምፒኦንስ ሊግ</string>
+    <string name="uefa_europa_leagua">አውሮፓ ሊግ</string>
+    <string name="african_champions_league">አፍሪካ ቻምፒኦንስ ሊግ</string>
+    <string name="frican_cup">አፍሪካ ዋንጫ</string>
+    <string name="world_cup">አለም ዋንጫ</string>
+</resources>

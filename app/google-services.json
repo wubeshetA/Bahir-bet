@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518147573542",
+    "firebase_url": "https://bahir-bet.firebaseio.com",
+    "project_id": "bahir-bet",
+    "storage_bucket": "bahir-bet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518147573542:android:55bf60317e3bb945",
+        "android_client_info": {
+          "package_name": "com.bahirbet.org.bahirbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518147573542-f7btin7rm00jcojinrd04ca6920sf5a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bahirbet.org.bahirbet",
+            "certificate_hash": "4f7873f4da823b86f541790aaaa24905f6a714df"
+          }
+        },
+        {
+          "client_id": "518147573542-sbnc6nvq0hjqije6cp9n2gjst5cu68c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAROkt6jx7uk8X9P3WnDarGSl4XOTstdDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518147573542-sbnc6nvq0hjqije6cp9n2gjst5cu68c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

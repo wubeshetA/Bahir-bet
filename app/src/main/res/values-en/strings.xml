@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EthiopianPremierLeague">Ethiopian Premier League</string>
+    <string name="football">FootBall</string>
+    <string name="selected_matches">Selected matches</string>
+    <string name="choose_the_transaction_method">Do you want to continue?</string>
+    <string name="place_your_bet_amount">place your bet amount:</string>
+    <string name="total_betting_amount">Total odd:</string>
+    <string name="possible_win">Possible win:</string>
+    <string name="english_premier_league">English PremierLeague</string>
+    <string name="spain_laliga">Spain Laliga</string>
+    <string name="tennis">Tennis</string>
+    <string name="base_ball">Base Ball</string>
+    <string name="volley_ball">Volley Ball</string>
+    <string name="basket_ball">Basket ball</string>
+    <string name="cycling">Cycling</string>
+    <string name="your_coupon_code_is">Your Coupon Code is: </string>
+    <string name="bahir_dar_kenema">Bahir Dar Kenema</string>
+    <string name="vs">Vs</string>
+    <string name="home">Home</string>
+    <string name="draw">Draw</string>
+    <string name="away">Away</string>
+    <string name="german_bundesliga">German Bundesliga</string>
+    <string name="italy_serie">Italy SerieA</string>
+    <string name="uefa_champions_league">UEFA champions league</string>
+    <string name="uefa_europa_leagua">UEFA Europa league</string>
+    <string name="african_champions_league">African champions League</string>
+    <string name="frican_cup">African Cup</string>
+    <string name="world_cup">World Cup 2022</string>
+</resources>
